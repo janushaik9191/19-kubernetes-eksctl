@@ -8,6 +8,6 @@ metadata:
 managedNodeGroups:
   - name: expense
     instanceType: m5.large
-    desiredCapacity: 01
+    desiredCapacity: 03
     # spot: true
     # spot instances can reduce the cost of resources upto 90%
